@@ -11,34 +11,24 @@ This system uses cloud storage and machine learning to automate traditional libr
 Steps to Run the Project
 Clone the repository:
 
-bash
-Copy
-Edit
+
 git clone <repository-url>
 Navigate to the project directory:
 
-bash
-Copy
-Edit
+
 cd ai-powered-e-library-system
 Install frontend dependencies and start React app:
 
-bash
-Copy
-Edit
+
 npm install
 npm start
 Set up and run backend/AI components (if applicable):
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 python app.py
 Open your browser and go to:
 
-arduino
-Copy
-Edit
+
 http://localhost:3000
 Start using the AI-Powered E-Library System!
